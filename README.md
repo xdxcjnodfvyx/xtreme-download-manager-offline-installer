@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Download+Manager-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Xtreme Download Manager Free Installer** — Xtreme Download Manager (XDM) is a free, open-source download accelerator for Windows, macOS, and Linux. Works without internet access, no account required. Full offline installation.
+**💻 Xtreme Download Manager Free Installer** — Xtreme Download Manager (XDM) is a free, open-source download accelerator that splits files into multiple segments for faster downloading. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Xtreme Download Manager
 
-Xtreme Download Manager (XDM) is a free, open-source download accelerator for Windows, macOS, and Linux. Automatically capture download links from browsers, segment files for parallel downloading, and resume interrupted downloads. XDM supports video downloads from popular platforms, scheduled downloads, and browser integration through extensions. A free, capable alternative to commercial download managers.
+Xtreme Download Manager (XDM) is a free, open-source download accelerator that splits files into multiple segments for faster downloading. It integrates with all major browsers, supports video download from streaming sites, and includes a built-in video converter.
 
 ---
 
 ## ❌ Problem: Xtreme Download Manager is hard to access
 
-- **Browser Integration** — Extension configuration required for browser download capture
-- **Video Download Legality** — Platform video downloading may violate terms of service
-- **Interface Design** — UI less polished than commercial download managers
-- **Advanced Features** — Fewer power features than Internet Download Manager
+- **Interface Complexity** — Feature-dense UI can confuse casual users
+- **Java Dependency** — Older versions required Java runtime for installation
+- **Streaming Detection** — Browser integration for video capture can be unreliable on some sites
+- **Limited Scheduling** — Download scheduling features are basic compared to IDM
 
 ---
 
@@ -121,7 +121,7 @@ Xtreme Download Manager (XDM) is a free, open-source download accelerator for Wi
 
 ---
 
-**Xtreme Download Manager Free Installer** — Xtreme Download Manager (XDM) is a free, open-source download accelerator for Windows, macOS, and Linux. Install without internet connection today!
+**Xtreme Download Manager Free Installer** — Xtreme Download Manager (XDM) is a free, open-source download accelerator that splits files into multiple segments for faster downloading. Install without internet connection today!
 
 <div align="center">
 
